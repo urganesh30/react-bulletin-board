@@ -1,2 +1,1 @@
-# react-bulletin-board
-A bulletin board built with React
+A bulletin board app built with React.
