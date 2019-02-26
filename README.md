@@ -1,1 +1,1 @@
-A bulletin board app built with React JS.
+A bulletin board app built with React.
